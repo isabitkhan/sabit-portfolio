@@ -17,20 +17,16 @@ import {
   css,
   reactjs,
   carrent,
-  redux,
   tailwind,
   nodejs,
   mongodb,
   git,
   figma,
-  docker,
   meta,
   starbucks,
   tesla,
-  shopify,
   jobit,
   tripguide,
-  threejs,
 } from '../assets';
 
 export const navLinks: TNavLink[] = [
